@@ -92,6 +92,3 @@ feel free to reach out on **Telegram**:
 
 
 
-## ⚡ License
-This source is for educational and private development use only.  
-Redistribution or resale without permission is prohibited.
