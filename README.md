@@ -70,8 +70,7 @@ Easily integrate your slot provider by configuring:
 ---
 
 ## 🧠 Notes
-- All games use server-seeded randomization for provable fairness.  
-- Frontend styled similar to **Shuffle.com** for a modern and clean casino experience.  
+- All games use server-seeded randomization for provable fairness.    
 - The codebase supports theme customization (colors, gradients, and assets).  
 
 ---
@@ -82,6 +81,9 @@ feel free to reach out on **Telegram**:
 👉 **[t.me/mhjakan](https://t.me/mhjakan)**
 
 ---
+
+![Preview](./screenshot.png)
+
 
 ## ⚡ License
 This source is for educational and private development use only.  
