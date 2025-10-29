@@ -1,3 +1,9 @@
+
+<img width="1470" height="821" alt="screenshot" src="https://github.com/user-attachments/assets/8efaa8c5-fbf7-48c0-9b58-df874061dbda" />
+
+
+
+
 # 🎰 VGOWitch.com — Casino Game Source
 
 Welcome to the official **VGOWitch.com** casino source code!  
