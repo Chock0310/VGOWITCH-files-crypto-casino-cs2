@@ -82,7 +82,8 @@ feel free to reach out on **Telegram**:
 
 ---
 
-![Preview](/screenshot.png)
+<img src="./screenshot.png" alt="Preview" width="200" />
+
 
 
 ## ⚡ License
