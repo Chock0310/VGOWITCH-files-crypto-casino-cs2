@@ -79,7 +79,7 @@ Easily integrate your slot provider by configuring:
 ## 🆘 Need Help?
 If you need **help with installation, configuration, or custom game integration**,  
 feel free to reach out on **Telegram**:  
-👉 **[t.me/yourusername](https://t.me/mhjakan)**
+👉 **[t.me/mhjakan](https://t.me/mhjakan)**
 
 ---
 
