@@ -82,7 +82,7 @@ feel free to reach out on **Telegram**:
 
 ---
 
-![Preview](./screenshot.png)
+![Preview](/screenshot.png)
 
 
 ## ⚡ License
