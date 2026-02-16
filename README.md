@@ -9,7 +9,7 @@
 Welcome to the official **VGOWitch.com** casino source code!  
 This package includes a full-featured web casino system with both **Slots** and **Originals Games** (custom-built in-house).  
 It’s designed for speed, scalability, and an immersive player experience.
-
+New Steam Trade cooldown Implemented
 ---
 
 ## 🕹️ Game Modules Included
